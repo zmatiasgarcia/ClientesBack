@@ -4,11 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="41839871-1cd9-491a-bb53-4ef5236dff01" name="Changes" comment="" />
+    <list default="true" id="41839871-1cd9-491a-bb53-4ef5236dff01" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bolsadeideas/springboot/backend/apirest/controllers/ClienteRestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bolsadeideas/springboot/backend/apirest/controllers/ClienteRestController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bolsadeideas/springboot/backend/apirest/models/dao/IClienteDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bolsadeideas/springboot/backend/apirest/models/dao/IClienteDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bolsadeideas/springboot/backend/apirest/models/services/ClienteServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bolsadeideas/springboot/backend/apirest/models/services/ClienteServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bolsadeideas/springboot/backend/apirest/models/services/IClienteService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bolsadeideas/springboot/backend/apirest/models/services/IClienteService.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -26,16 +35,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/matias/Downloads/crud&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/matias/Downloads/crud",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="spring-boot-backend-apirest [spring-boot:run]" type="MavenRunConfiguration" factoryName="Maven" singleton="false" nameIsGenerated="true">
       <MavenSettings>
